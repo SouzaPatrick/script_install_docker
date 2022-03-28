@@ -19,3 +19,8 @@ Run the script
 ./docker.sh
 ```
 
+Docker-compose version
+```bash
+docker-compose -v
+```
+
